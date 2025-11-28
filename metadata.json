@@ -1,0 +1,8 @@
+{
+  "name": "Veritas AI",
+  "description": "A multi-modal digital integrity platform using Gemini to detect deepfakes, verify job offers, and check news veracity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
